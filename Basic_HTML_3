@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body> 
+	<style>
+	h1 {color:blue;}
+	p {color: green; text-align:right;}
+	</style>
+	<h1>Heading Here</h1>
+	
+	<div style="color: red">
+		<h2>Div Heading Here</h2>
+	<p>GREEN TEXT IN THE RIGHT</P>
+</body>
